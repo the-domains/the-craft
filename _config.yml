@@ -1,7 +1,7 @@
 name: The Craft
 favicon: null
-layout_spectrum: 0.96147
-typography_spectrum: 0.98651
+layout_spectrum: 0
+typography_spectrum: 0.72254
 title: Architectural Visualization Craftsmen
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#443a43'
     - '#84644e'
     - '#bd9677'
-  brandStrength: 1
-  lightness: 0.3125
+  brandStrength: 0.5
+  lightness: 0.375
   saturation: 0
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
