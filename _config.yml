@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Contact us!
+    url: 'https://ronenbekerman.typeform.com/to/Zab166'
+    type: external
 favicon: null
 title: Architectural Visualization Craftsmen
 description: Relax! We've got you covered ;)
