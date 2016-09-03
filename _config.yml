@@ -1,20 +1,4 @@
-name: The Craft
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.72254
-title: Architectural Visualization Craftsmen
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#211e25'
@@ -26,4 +10,21 @@ color:
   lightness: 0.1875
   saturation: 0.9375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Craft
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Architectural Visualization Craftsmen
+description: Relax! We've got you covered ;)
 purpose: []
