@@ -30,6 +30,9 @@ navigation:
   - name: Contact us!
     url: 'https://ronenbekerman.typeform.com/to/Zab166'
     type: external
+  - name: Ronen's Blog
+    url: 'http://ronenbekerman.com/'
+    type: external
 favicon: null
 title: Architectural Visualization Craftsmen
 description: Relax! We've got you covered ;)
