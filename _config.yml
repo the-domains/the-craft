@@ -1,20 +1,20 @@
-typography_spectrum: 0.72254
+layout_spectrum: 0.25767329079099
+typography_spectrum: 0.8610237196553499
 color:
   brandColors:
-    - '#211e25'
-    - '#06050a'
-    - '#443a43'
-    - '#84644e'
-    - '#bd9677'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.9375
-  rhythmicContrast: 0.25
+    - '#0C0C0C'
+    - '#363636'
+    - '#FFFFFF'
+    - '#878787'
+    - '#D1D1D1'
+  brandStrength: 0.31465314771048725
+  lightness: 0.40323071694001555
+  saturation: 0.30111548118293285
+  rhythmicContrast: 0.9743119918275625
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
 analytics:
   google: null
   facebook: null
@@ -29,9 +29,6 @@ cta:
 navigation:
   - name: Contact us!
     url: 'https://ronenbekerman.typeform.com/to/Zab166'
-    type: external
-  - name: Ronen's Blog
-    url: 'http://ronenbekerman.com/'
     type: external
 favicon: null
 title: Architectural Visualization Craftsmen
